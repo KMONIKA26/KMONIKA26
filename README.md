@@ -9,7 +9,7 @@
  ### 😄 Pronouns
 She/Her
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![Visitor Badge]( ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id))
 
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
