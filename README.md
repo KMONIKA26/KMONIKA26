@@ -27,6 +27,10 @@ She/Her
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
+<abc> 
+<img src="code.gif" alt="Coder GIF" width="500" height="300">
+ </abc>
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
