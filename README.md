@@ -41,8 +41,12 @@ She/Her
 - [HackerRank](https://www.hackerrank.com/profile/raomonika343) 
 </p>
 
+<hr>
+
 ### ⚡ One line that describes me best? 🌟
 An ambitious girl who loves to cook fries, day dream at nights and sometime codes too.😉😉
+
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -73,6 +77,10 @@ An ambitious girl who loves to cook fries, day dream at nights and sometime code
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />
 <div/>
 </p>
+
+<hr>
+
+##Github Statistics
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmonika26&show_icons=true&locale=en&layout=compact" alt="kmonika26" /></p>
 
