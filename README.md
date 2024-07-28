@@ -80,7 +80,7 @@ An ambitious girl who loves to cook fries, day dream at nights and sometime code
 
 <hr>
 
-##Github Statistics
+<h3 align="left">Github Statistics</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmonika26&show_icons=true&locale=en&layout=compact" alt="kmonika26" /></p>
 
