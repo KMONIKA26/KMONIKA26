@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm K Monika</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;1500%2B+Hours+of+Coding+Experience+⚡️;700%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
+<hr>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmonika26&label=Profile%20views&color=0e75b6&style=flat" alt="kmonika26" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmonika26" alt="kmonika26" /></a> </p>
