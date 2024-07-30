@@ -11,7 +11,7 @@ She/Her
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmonika26&label=Profile%20views&color=0e75b6&style=flat" alt="kmonika26" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/kmonika442728" target="blank"><img src="https://img.shields.io/twitter/follow/kmonika442728?logo=twitter&style=for-the-badge" alt="kmonika442728" /></a> </p>
+<p> As a Full Stack Developer, I excel in creating dynamic websites and applications using a diverse array of front-end and back-end development technologies. 🚀👨‍💻</p>
 
 
 - :computer: I'm a Full Stack Developer, currently exploring Web3 Space
