@@ -10,7 +10,6 @@ She/Her
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmonika26&label=Profile%20views&color=0e75b6&style=flat" alt="kmonika26" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmonika26" alt="kmonika26" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kmonika442728" target="blank"><img src="https://img.shields.io/twitter/follow/kmonika442728?logo=twitter&style=for-the-badge" alt="kmonika442728" /></a> </p>
 
@@ -31,7 +30,8 @@ She/Her
 <img src="code.gif" alt="Coder GIF" width="500" height="300">
  </abc>
  
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</
+h3>
 <p align="left">
 
 - [Twitter](https://x.com/KMonika442728) 
