@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm K Monika</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 [<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;1000%2B+Hours+of+Coding+Experience+⚡️;100%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
 <hr>
@@ -10,25 +10,23 @@ She/Her
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmonika26&label=Profile%20views&color=0e75b6&style=flat" alt="kmonika26" /> </p>
 
+<h2>About me</h2>
 
 <p> As a Full Stack Developer, I excel in creating dynamic websites and applications using a diverse array of front-end and back-end development technologies. 🚀👨‍💻</p>
 
-
-- :computer: I'm a Full Stack Developer, currently exploring Web3 Space
 - 🌱 I’m currently learning **MongoDB**
-- 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Web Development**
 🔭 &nbsp; I’m currently working on **React Project**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/KMONIKA26?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/k-monika-263030229/)
-- :rocket: Always ready to collaborate for Dev Experiments
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+
+<hr>
 
 <abc> 
 <img src="code.gif" alt="Coder GIF" width="500" height="300">
  </abc>
+ 
+ <hr>
  
 <h3 align="left">Connect with me:</
 h3>
