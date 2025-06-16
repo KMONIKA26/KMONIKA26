@@ -5,9 +5,6 @@
 <hr>
 
 
- ### 😄 Pronouns
-She/Her
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmonika26&label=Profile%20views&color=0e75b6&style=flat" alt="kmonika26" /> </p>
 
 <h2>About me</h2>
@@ -29,21 +26,6 @@ She/Her
  
  <hr>
  
-<h3 align="left">Connect with me:</
-h3>
-<p align="left">
-
-- [Twitter](https://x.com/KMonika442728) 
-- [LinkedIn](https://www.linkedin.com/in/k-monika-263030229/) 
-- [My personal portfolio]() 
-- [Leetcode](https://leetcode.com/u/KMONIKA26/)
-- [HackerRank](https://www.hackerrank.com/profile/raomonika343) 
-</p>
-
-<hr>
-
-### ⚡ One line that describes me best? 🌟
-An ambitious girl who loves to cook fries, day dream at nights and sometime codes too.😉😉
 
 <hr>
 
