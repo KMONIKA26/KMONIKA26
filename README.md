@@ -11,8 +11,6 @@
 
 <p> As a Full Stack Developer, I excel in creating dynamic websites and applications using a diverse array of front-end and back-end development technologies. 🚀👨‍💻</p>
 
-- 🌱 I’m currently learning **MongoDB**
-- 💬 Ask me about **Web Development**
 🔭 &nbsp; I’m currently working on **React Project**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/KMONIKA26?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/k-monika-263030229/)
